@@ -1,0 +1,1 @@
+This is my first project for The Odin Project. I will be able to use my basic HTML skills once I have finished this site. This includes using links to link to other parts of my website.
