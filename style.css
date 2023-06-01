@@ -1,7 +1,13 @@
 body {
     background-color: rgb(240, 214, 190);
+    font-family: "Monaco", Arial;
 }
 
 h1, h2 {
     color:rgb(29, 19, 10)
+}
+
+img {
+    width: 300px;
+    height: auto;
 }
