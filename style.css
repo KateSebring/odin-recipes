@@ -27,6 +27,27 @@ li.link-item {
     padding: 20px;
 }
 
-div {
-    /* text-align: center; */
+.ingredients, .steps, .description {
+    margin: auto;
+    text-align: left;
+}
+
+.ingredients, .steps {
+    width: 300px;
+}
+
+.description {
+    width: 500px;
+}
+
+.container {
+    width: 900px;
+    margin: auto;
+    background-color: bisque;
+    padding:30px;
+}
+
+a {
+    display: inline-block;
+    margin-top: 20px;
 }
